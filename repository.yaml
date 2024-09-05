@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Hikvision Add-ons
-url: "https://github.com/pergolafabio/Hikvision-Addons"
-maintainer: Pergola Fabio <pergola.fabio@gmail.com>
+name: Fork of Hikvision Add-ons
+url: "https://github.com/TanteFinn/FaceXess"
+maintainer: Raimund Wagner <raimund.wagner.84@gmail.com>
