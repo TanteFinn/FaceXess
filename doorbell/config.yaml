@@ -2,7 +2,7 @@ name: FaceXess Doorbell
 description: Connect your FaceXess doorbells to Home Assistant
 version: '3.0.15'
 image: ghcr.io/pergolafabio/hikvision-doorbell
-slug: hikvision_doorbell
+slug: facexess_doorbell
 url: https://github.com/TanteFinn/FaceXess
 arch:
 - amd64
