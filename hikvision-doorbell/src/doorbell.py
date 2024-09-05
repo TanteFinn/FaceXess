@@ -23,7 +23,7 @@ class DeviceType(IntEnum):
     K1T342 = 10538
     HD = 31
     AccessControlTerminal = 861
-
+    FaceAccessTerminal = 10534
 
 class Doorbell():
     """A doorbell device.
